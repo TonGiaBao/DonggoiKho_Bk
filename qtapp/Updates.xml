@@ -3,37 +3,37 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>bin</Name>
-  <DisplayName>Bin</DisplayName>
-  <Description>Các thành chính</Description>
-  <Version>1.1.6</Version>
+  <Name>report</Name>
+  <DisplayName>Report</DisplayName>
+  <Description>Các thành phần report cho dich vụ</Description>
+  <Version>1.0.8</Version>
   <ReleaseDate>2018-04-09</ReleaseDate>
+  <Script>installscript.qs</Script>
   <Default>true</Default>
-  <UpdateFile CompressedSize="1329496" OS="Any" UncompressedSize="8780004"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>8a145e15b6a9413ff35dac3a476481603faba1fd</SHA1>
+  <UpdateFile UncompressedSize="9036996" CompressedSize="768234" OS="Any"/>
+  <DownloadableArchives>reports.7z</DownloadableArchives>
+  <SHA1>70e8458bb849bb991ce0d5d44f24e202cd85c0b5</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>QtCoreLib</Name>
   <DisplayName>Qt Core Lib</DisplayName>
   <Description>Các thư viện chạy phần mềm dịch vụ</Description>
-  <Version>1.0.7</Version>
+  <Version>1.0.8</Version>
   <ReleaseDate>2018-04-09</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="25515161" OS="Any" UncompressedSize="119724691"/>
+  <UpdateFile UncompressedSize="110967262" CompressedSize="24189617" OS="Any"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,reports.7z,sqldrivers.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>c53894cd5d5f6507c2ad5d004227ed0ee385b998</SHA1>
+  <SHA1>bba7a3bcc14be433b0bfc69664e6e242d51fa975</SHA1>
  </PackageUpdate>
  <PackageUpdate>
-  <Name>report</Name>
-  <DisplayName>Report</DisplayName>
-  <Description>Các thành phần report cho dich vụ</Description>
-  <Version>1.0.7</Version>
+  <Name>bin</Name>
+  <DisplayName>Bin</DisplayName>
+  <Description>Các thành chính</Description>
+  <Version>1.1.7</Version>
   <ReleaseDate>2018-04-09</ReleaseDate>
-  <Script>installscript.qs</Script>
   <Default>true</Default>
-  <UpdateFile CompressedSize="768302" OS="Any" UncompressedSize="8659980"/>
-  <DownloadableArchives>reports.7z</DownloadableArchives>
-  <SHA1>75765cd4360fe64c4a250ce7c7e2e967aa75f6bf</SHA1>
+  <UpdateFile UncompressedSize="8779966" CompressedSize="1329466" OS="Any"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>9853479503eb225bbd9cee09b13fd55941fe6fba</SHA1>
  </PackageUpdate>
 </Updates>

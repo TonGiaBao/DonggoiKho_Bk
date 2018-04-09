@@ -1,1 +1,1 @@
-e:\Qt\QtIFW2.0.5\bin\repogen --update -p packages qtapp
+e:\Qt\QtIFW2.0.5\bin\repogen --update -e QtCoreLib,report -p packages qtapp
