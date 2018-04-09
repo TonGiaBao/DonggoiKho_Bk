@@ -3,37 +3,37 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
+  <Name>bin</Name>
+  <DisplayName>Bin</DisplayName>
+  <Description>Các thành chính</Description>
+  <Version>1.1.6</Version>
+  <ReleaseDate>2018-04-09</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="1329496" OS="Any" UncompressedSize="8780004"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>8a145e15b6a9413ff35dac3a476481603faba1fd</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
   <Name>QtCoreLib</Name>
   <DisplayName>Qt Core Lib</DisplayName>
   <Description>Các thư viện chạy phần mềm dịch vụ</Description>
-  <Version>1.0.5</Version>
-  <ReleaseDate>2018-04-06</ReleaseDate>
+  <Version>1.0.7</Version>
+  <ReleaseDate>2018-04-09</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="25515179" UncompressedSize="119724691"/>
+  <UpdateFile CompressedSize="25515161" OS="Any" UncompressedSize="119724691"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,reports.7z,sqldrivers.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>3b67cbaa159e748f6e72a2527c75786e2107ebd0</SHA1>
+  <SHA1>c53894cd5d5f6507c2ad5d004227ed0ee385b998</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>report</Name>
   <DisplayName>Report</DisplayName>
   <Description>Các thành phần report cho dich vụ</Description>
-  <Version>1.0.5</Version>
-  <ReleaseDate>2018-04-06</ReleaseDate>
+  <Version>1.0.7</Version>
+  <ReleaseDate>2018-04-09</ReleaseDate>
   <Script>installscript.qs</Script>
   <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="377223" UncompressedSize="6696783"/>
+  <UpdateFile CompressedSize="768302" OS="Any" UncompressedSize="8659980"/>
   <DownloadableArchives>reports.7z</DownloadableArchives>
-  <SHA1>9a305fb3229756840092f125d65b99582065a5cb</SHA1>
- </PackageUpdate>
- <PackageUpdate>
-  <Name>bin</Name>
-  <DisplayName>Bin</DisplayName>
-  <Description>Các thành chính</Description>
-  <Version>1.1.0</Version>
-  <ReleaseDate>2018-04-06</ReleaseDate>
-  <Default>true</Default>
-  <UpdateFile OS="Any" CompressedSize="1326987" UncompressedSize="8778980"/>
-  <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>827dbd7241663fea21ff9451986d26d2dead94e1</SHA1>
+  <SHA1>75765cd4360fe64c4a250ce7c7e2e967aa75f6bf</SHA1>
  </PackageUpdate>
 </Updates>
