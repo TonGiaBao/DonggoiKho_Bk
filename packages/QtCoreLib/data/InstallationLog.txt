@@ -1,0 +1,1744 @@
+************************************* Invoked: Hai Thg2 26 17:02:57 2018
+[0] Arguments:  C:\Users\Bao\Desktop\installer_online_xp_ak.exe
+[3] Operations sanity check succeeded.
+[1789] addDownloadable "reports.7z"
+[1789] addDownloadable "content.7z"
+[1789] addDownloadable "iconengines.7z"
+[1789] addDownloadable "imageformats.7z"
+[1789] addDownloadable "platforms.7z"
+[1789] addDownloadable "printsupport.7z"
+[1789] addDownloadable "sqldrivers.7z"
+[1789] addDownloadable "translations.7z"
+[1789] addDownloadable "content.7z"
+[3959] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "162.16 GiB"
+[3960] Installation space required: "115.63 MiB" Temporary space required: "20.21 MiB" Local repository size: "17.64 MiB"
+[4474] backup  operation: Mkdir
+[4474] \t- arguments: C:/Program Files/Bao Khoa/dichvu
+[4475] Done
+[4475] perform  operation: Mkdir
+[4475] \t- arguments: C:/Program Files/Bao Khoa/dichvu
+[4476] Done
+[4476] Install size: 3 components
+[27179] backup report operation: Extract
+[27179] \t- arguments: installer://report/1.0.2reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[27179] Done
+[27180] perform report operation: Extract
+[27180] \t- arguments: installer://report/1.0.2reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[27507] Done
+[27507] backup report operation: CreateShortcut
+[27507] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/dichvu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[27507] Done
+[27507] perform report operation: CreateShortcut
+[27507] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/dichvu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[27551] Done
+[27552] backup bin operation: Extract
+[27552] \t- arguments: installer://bin/1.1.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[27552] Done
+[27552] perform bin operation: Extract
+[27552] \t- arguments: installer://bin/1.1.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[27795] Done
+[27796] backup QtCoreLib operation: Extract
+[27796] \t- arguments: installer://QtCoreLib/1.0.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[27796] Done
+[27796] perform QtCoreLib operation: Extract
+[27796] \t- arguments: installer://QtCoreLib/1.0.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[29836] Done
+[29836] backup QtCoreLib operation: Extract
+[29836] \t- arguments: installer://QtCoreLib/1.0.6iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[29836] Done
+[29836] perform QtCoreLib operation: Extract
+[29836] \t- arguments: installer://QtCoreLib/1.0.6iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[29841] Done
+[29841] backup QtCoreLib operation: Extract
+[29841] \t- arguments: installer://QtCoreLib/1.0.6imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[29841] Done
+[29841] perform QtCoreLib operation: Extract
+[29841] \t- arguments: installer://QtCoreLib/1.0.6imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[29915] Done
+[29915] backup QtCoreLib operation: Extract
+[29916] \t- arguments: installer://QtCoreLib/1.0.6platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[29916] Done
+[29916] perform QtCoreLib operation: Extract
+[29916] \t- arguments: installer://QtCoreLib/1.0.6platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[30003] Done
+[30003] backup QtCoreLib operation: Extract
+[30003] \t- arguments: installer://QtCoreLib/1.0.6printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[30003] Done
+[30003] perform QtCoreLib operation: Extract
+[30003] \t- arguments: installer://QtCoreLib/1.0.6printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[30008] Done
+[30008] backup QtCoreLib operation: Extract
+[30008] \t- arguments: installer://QtCoreLib/1.0.6sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[30008] Done
+[30008] perform QtCoreLib operation: Extract
+[30008] \t- arguments: installer://QtCoreLib/1.0.6sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[30070] Done
+[30070] backup QtCoreLib operation: Extract
+[30070] \t- arguments: installer://QtCoreLib/1.0.6translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[30070] Done
+[30070] perform QtCoreLib operation: Extract
+[30070] \t- arguments: installer://QtCoreLib/1.0.6translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[30145] Done
+[30151] Writing maintenance tool: "C:\\Program Files\\Bao Khoa\\dichvu/maintenancetool.exe.new"
+[30212] Wrote permissions for maintenance tool.
+[30577] Maintenance tool restart: false.
+[30578] SHOW FINISHED PAGE
+************************************* Invoked: Hai Thg2 26 18:24:56 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[148] Operations sanity check succeeded.
+[2554] addDownloadable "iconengines.7z"
+[2554] addDownloadable "imageformats.7z"
+[2554] addDownloadable "platforms.7z"
+[2554] addDownloadable "printsupport.7z"
+[2554] addDownloadable "sqldrivers.7z"
+[2554] addDownloadable "translations.7z"
+[2554] addDownloadable "content.7z"
+[2555] addDownloadable "reports.7z"
+[2555] addDownloadable "content.7z"
+[3234] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "161.58 GiB"
+[3234] Installation space required: "23.60 MiB" Temporary space required: "1.73 MiB" Local repository size: "0.00 bytes"
+[3758] Install size: 1 components
+[4268] undo operation= "MinimumProgress"
+[4268] undo operation= "CreateShortcut"
+[4268] undo report operation: CreateShortcut
+[4268] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/dichvu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[4269] Done
+[4269] undo operation= "Extract"
+[4269] undo report operation: Extract
+[4269] \t- arguments: installer://report/1.0.2reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[4287] Done
+[4294] backup report operation: Extract
+[4294] \t- arguments: installer://report/1.0.3reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[4294] Done
+[4295] perform report operation: Extract
+[4295] \t- arguments: installer://report/1.0.3reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[4624] Done
+[4624] backup report operation: CreateShortcut
+[4624] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/dichvu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[4624] Done
+[4624] perform report operation: CreateShortcut
+[4625] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/dichvu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[4688] Done
+[4698] SHOW FINISHED PAGE
+************************************* Invoked: Ba Thg2 27 13:32:24 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[93] Operations sanity check succeeded.
+[6551] addDownloadable "iconengines.7z"
+[6551] addDownloadable "imageformats.7z"
+[6551] addDownloadable "platforms.7z"
+[6551] addDownloadable "printsupport.7z"
+[6551] addDownloadable "sqldrivers.7z"
+[6551] addDownloadable "translations.7z"
+[6551] addDownloadable "content.7z"
+[6552] addDownloadable "content.7z"
+[6552] addDownloadable "reports.7z"
+[9477] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "161.35 GiB"
+[9477] Installation space required: "33.70 MiB" Temporary space required: "3.16 MiB" Local repository size: "0.00 bytes"
+[10266] Install size: 2 components
+[16307] undo operation= "MinimumProgress"
+[16307] undo operation= "Extract"
+[16307] undo bin operation: Extract
+[16307] \t- arguments: installer://bin/1.1.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16314] Done
+[16314] undo operation= "MinimumProgress"
+[16314] undo operation= "CreateShortcut"
+[16315] undo report operation: CreateShortcut
+[16315] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/dichvu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[16317] Done
+[16318] undo operation= "Extract"
+[16318] undo report operation: Extract
+[16318] \t- arguments: installer://report/1.0.3reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16343] Done
+[16363] backup bin operation: Extract
+[16363] \t- arguments: installer://bin/1.1.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16363] Done
+[16364] perform bin operation: Extract
+[16364] \t- arguments: installer://bin/1.1.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16595] Done
+[16597] backup report operation: Extract
+[16597] \t- arguments: installer://report/1.0.7reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16597] Done
+[16598] perform report operation: Extract
+[16598] \t- arguments: installer://report/1.0.7reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16935] Done
+[16935] backup report operation: CreateShortcut
+[16935] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[16935] Done
+[16935] perform report operation: CreateShortcut
+[16935] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[17205] Done
+[17220] SHOW FINISHED PAGE
+************************************* Invoked: Tu Thg2 28 07:34:46 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[274] Operations sanity check succeeded.
+[3075] addDownloadable "iconengines.7z"
+[3075] addDownloadable "imageformats.7z"
+[3075] addDownloadable "platforms.7z"
+[3075] addDownloadable "printsupport.7z"
+[3075] addDownloadable "sqldrivers.7z"
+[3075] addDownloadable "translations.7z"
+[3075] addDownloadable "content.7z"
+[3076] addDownloadable "content.7z"
+[3076] addDownloadable "reports.7z"
+[8199] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "161.33 GiB"
+[8199] Installation space required: "36.22 MiB" Temporary space required: "3.18 MiB" Local repository size: "0.00 bytes"
+[8972] Install size: 2 components
+[9896] undo operation= "MinimumProgress"
+[9896] undo operation= "CreateShortcut"
+[9896] undo report operation: CreateShortcut
+[9896] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[9897] Done
+[9897] undo operation= "Extract"
+[9897] undo report operation: Extract
+[9897] \t- arguments: installer://report/1.0.7reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9919] Done
+[9919] undo operation= "MinimumProgress"
+[9919] undo operation= "Extract"
+[9919] undo bin operation: Extract
+[9919] \t- arguments: installer://bin/1.1.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9921] Done
+[9932] backup bin operation: Extract
+[9932] \t- arguments: installer://bin/1.1.8content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9932] Done
+[9932] perform bin operation: Extract
+[9932] \t- arguments: installer://bin/1.1.8content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10163] Done
+[10164] backup report operation: Extract
+[10164] \t- arguments: installer://report/1.0.9reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10164] Done
+[10165] perform report operation: Extract
+[10165] \t- arguments: installer://report/1.0.9reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10519] Done
+[10520] backup report operation: CreateShortcut
+[10520] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[10520] Done
+[10520] perform report operation: CreateShortcut
+[10520] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[10785] Done
+[10799] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg3 1 08:30:12 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[26] Operations sanity check succeeded.
+[2665] addDownloadable "iconengines.7z"
+[2665] addDownloadable "imageformats.7z"
+[2665] addDownloadable "platforms.7z"
+[2665] addDownloadable "printsupport.7z"
+[2665] addDownloadable "sqldrivers.7z"
+[2665] addDownloadable "translations.7z"
+[2665] addDownloadable "content.7z"
+[2665] addDownloadable "content.7z"
+[2665] addDownloadable "reports.7z"
+[15281] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "161.22 GiB"
+[15281] Installation space required: "36.27 MiB" Temporary space required: "3.19 MiB" Local repository size: "0.00 bytes"
+[16270] Install size: 2 components
+[17182] undo operation= "MinimumProgress"
+[17183] undo operation= "CreateShortcut"
+[17183] undo report operation: CreateShortcut
+[17183] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[17184] Done
+[17184] undo operation= "Extract"
+[17184] undo report operation: Extract
+[17184] \t- arguments: installer://report/1.0.9reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17390] Done
+[17390] undo operation= "MinimumProgress"
+[17390] undo operation= "Extract"
+[17390] undo bin operation: Extract
+[17390] \t- arguments: installer://bin/1.1.8content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17392] Done
+[17420] backup bin operation: Extract
+[17420] \t- arguments: installer://bin/1.2.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17420] Done
+[17421] perform bin operation: Extract
+[17421] \t- arguments: installer://bin/1.2.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17657] Done
+[17658] backup report operation: Extract
+[17658] \t- arguments: installer://report/1.1.1reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17658] Done
+[17658] perform report operation: Extract
+[17658] \t- arguments: installer://report/1.1.1reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18016] Done
+[18016] backup report operation: CreateShortcut
+[18016] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[18016] Done
+[18017] perform report operation: CreateShortcut
+[18017] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[18247] Done
+[18258] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg3 1 08:30:54 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe, --manage-packages
+[8] Operations sanity check succeeded.
+************************************* Invoked: Nam Thg3 1 18:29:44 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[20] Operations sanity check succeeded.
+[2379] addDownloadable "iconengines.7z"
+[2379] addDownloadable "imageformats.7z"
+[2379] addDownloadable "platforms.7z"
+[2379] addDownloadable "printsupport.7z"
+[2379] addDownloadable "sqldrivers.7z"
+[2379] addDownloadable "translations.7z"
+[2379] addDownloadable "content.7z"
+[2379] addDownloadable "content.7z"
+[2379] addDownloadable "reports.7z"
+[4361] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "161.23 GiB"
+[4361] Installation space required: "36.28 MiB" Temporary space required: "3.19 MiB" Local repository size: "0.00 bytes"
+[5035] Install size: 2 components
+[6406] undo operation= "MinimumProgress"
+[6408] undo operation= "CreateShortcut"
+[6408] undo report operation: CreateShortcut
+[6408] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[6408] Warning: It seems that this sender was not registered in the right way: QObject(0x0)
+[6409] Done
+[6409] undo operation= "Extract"
+[6409] undo report operation: Extract
+[6409] \t- arguments: installer://report/1.1.1reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[6473] Done
+[6473] undo operation= "MinimumProgress"
+[6474] undo operation= "Extract"
+[6474] undo bin operation: Extract
+[6474] \t- arguments: installer://bin/1.2.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[6476] Done
+[6501] backup bin operation: Extract
+[6501] \t- arguments: installer://bin/1.2.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[6501] Done
+[6501] perform bin operation: Extract
+[6501] \t- arguments: installer://bin/1.2.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[6784] Done
+[6785] backup report operation: Extract
+[6785] \t- arguments: installer://report/1.1.2reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[6785] Done
+[6785] perform report operation: Extract
+[6785] \t- arguments: installer://report/1.1.2reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7176] Done
+[7176] backup report operation: CreateShortcut
+[7176] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[7176] Done
+[7176] perform report operation: CreateShortcut
+[7176] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[7622] Done
+[7626] 108.45 is bigger than 100 - this should not happen more than once
+[7639] SHOW FINISHED PAGE
+************************************* Invoked: Sa´u Thg3 2 16:52:53 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[159] Operations sanity check succeeded.
+[3024] addDownloadable "content.7z"
+[3024] addDownloadable "reports.7z"
+[3024] addDownloadable "iconengines.7z"
+[3024] addDownloadable "imageformats.7z"
+[3024] addDownloadable "platforms.7z"
+[3024] addDownloadable "printsupport.7z"
+[3024] addDownloadable "sqldrivers.7z"
+[3024] addDownloadable "translations.7z"
+[3024] addDownloadable "content.7z"
+[5327] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "161.22 GiB"
+[5327] Installation space required: "36.34 MiB" Temporary space required: "3.19 MiB" Local repository size: "0.00 bytes"
+[6068] Install size: 2 components
+[7284] undo operation= "MinimumProgress"
+[7284] undo operation= "CreateShortcut"
+[7284] undo report operation: CreateShortcut
+[7284] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[7315] Done
+[7315] undo operation= "Extract"
+[7315] undo report operation: Extract
+[7315] \t- arguments: installer://report/1.1.2reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7432] Done
+[7432] undo operation= "MinimumProgress"
+[7433] undo operation= "Extract"
+[7433] undo bin operation: Extract
+[7433] \t- arguments: installer://bin/1.2.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7436] Done
+[7454] backup bin operation: Extract
+[7454] \t- arguments: installer://bin/1.2.2content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7454] Done
+[7455] perform bin operation: Extract
+[7455] \t- arguments: installer://bin/1.2.2content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7694] Done
+[7695] backup report operation: Extract
+[7695] \t- arguments: installer://report/1.1.3reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7695] Done
+[7695] perform report operation: Extract
+[7695] \t- arguments: installer://report/1.1.3reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[8121] Done
+[8122] backup report operation: CreateShortcut
+[8122] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[8122] Done
+[8122] perform report operation: CreateShortcut
+[8122] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[8762] Done
+[8774] SHOW FINISHED PAGE
+************************************* Invoked: Sa´u Thg3 2 17:04:16 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[17] Operations sanity check succeeded.
+[4009] addDownloadable "iconengines.7z"
+[4009] addDownloadable "imageformats.7z"
+[4009] addDownloadable "platforms.7z"
+[4009] addDownloadable "printsupport.7z"
+[4009] addDownloadable "sqldrivers.7z"
+[4009] addDownloadable "translations.7z"
+[4009] addDownloadable "content.7z"
+[4009] addDownloadable "reports.7z"
+[4010] addDownloadable "content.7z"
+[5875] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "161.22 GiB"
+[5875] Installation space required: "36.35 MiB" Temporary space required: "3.19 MiB" Local repository size: "0.00 bytes"
+[6491] Install size: 2 components
+[7936] undo operation= "MinimumProgress"
+[7937] undo operation= "CreateShortcut"
+[7937] undo report operation: CreateShortcut
+[7937] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[7938] Done
+[7938] undo operation= "Extract"
+[7938] undo report operation: Extract
+[7938] \t- arguments: installer://report/1.1.3reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7960] Done
+[7960] undo operation= "MinimumProgress"
+[7960] undo operation= "Extract"
+[7960] undo bin operation: Extract
+[7960] \t- arguments: installer://bin/1.2.2content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7964] Done
+[7975] backup report operation: Extract
+[7975] \t- arguments: installer://report/1.1.4reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7975] Done
+[7975] perform report operation: Extract
+[7975] \t- arguments: installer://report/1.1.4reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[8380] Done
+[8380] backup report operation: CreateShortcut
+[8380] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[8380] Done
+[8380] perform report operation: CreateShortcut
+[8380] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[8445] Done
+[8446] backup bin operation: Extract
+[8446] \t- arguments: installer://bin/1.2.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[8446] Done
+[8446] perform bin operation: Extract
+[8446] \t- arguments: installer://bin/1.2.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[8720] Done
+[8732] SHOW FINISHED PAGE
+************************************* Invoked: Ba Thg3 6 15:05:04 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[16] Operations sanity check succeeded.
+[4461] addDownloadable "content.7z"
+[4475] addDownloadable "reports.7z"
+[4476] addDownloadable "iconengines.7z"
+[4476] addDownloadable "imageformats.7z"
+[4476] addDownloadable "platforms.7z"
+[4476] addDownloadable "printsupport.7z"
+[4476] addDownloadable "sqldrivers.7z"
+[4476] addDownloadable "translations.7z"
+[4476] addDownloadable "content.7z"
+[6903] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "164.64 GiB"
+[6903] Installation space required: "37.36 MiB" Temporary space required: "3.19 MiB" Local repository size: "0.00 bytes"
+[8612] Install size: 2 components
+[9269] undo operation= "MinimumProgress"
+[9270] undo operation= "Extract"
+[9270] undo bin operation: Extract
+[9270] \t- arguments: installer://bin/1.2.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9313] Done
+[9313] undo operation= "MinimumProgress"
+[9313] undo operation= "CreateShortcut"
+[9313] undo report operation: CreateShortcut
+[9313] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[9314] Done
+[9314] undo operation= "Extract"
+[9314] undo report operation: Extract
+[9314] \t- arguments: installer://report/1.1.4reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9374] Done
+[9399] backup bin operation: Extract
+[9399] \t- arguments: installer://bin/1.2.4content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9399] Done
+[9400] perform bin operation: Extract
+[9400] \t- arguments: installer://bin/1.2.4content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9660] Done
+[9662] backup report operation: Extract
+[9662] \t- arguments: installer://report/1.1.5reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9662] Done
+[9662] perform report operation: Extract
+[9662] \t- arguments: installer://report/1.1.5reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10048] Done
+[10049] backup report operation: CreateShortcut
+[10049] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[10049] Done
+[10049] perform report operation: CreateShortcut
+[10049] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[10580] Done
+[10593] SHOW FINISHED PAGE
+************************************* Invoked: Ba Thg3 6 15:12:00 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[7] Operations sanity check succeeded.
+[4040] addDownloadable "reports.7z"
+[4041] addDownloadable "iconengines.7z"
+[4041] addDownloadable "imageformats.7z"
+[4041] addDownloadable "platforms.7z"
+[4041] addDownloadable "printsupport.7z"
+[4041] addDownloadable "sqldrivers.7z"
+[4041] addDownloadable "translations.7z"
+[4041] addDownloadable "content.7z"
+[4041] addDownloadable "content.7z"
+************************************* Invoked: Ba Thg3 6 15:14:37 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[16] Operations sanity check succeeded.
+[18899] addDownloadable "content.7z"
+[18899] addDownloadable "iconengines.7z"
+[18899] addDownloadable "imageformats.7z"
+[18899] addDownloadable "platforms.7z"
+[18899] addDownloadable "printsupport.7z"
+[18899] addDownloadable "sqldrivers.7z"
+[18899] addDownloadable "translations.7z"
+[18899] addDownloadable "content.7z"
+[18899] addDownloadable "reports.7z"
+[21576] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "164.64 GiB"
+[21576] Installation space required: "66.97 MiB" Temporary space required: "17.06 MiB" Local repository size: "0.00 bytes"
+[22841] Install size: 1 components
+[26104] undo operation= "MinimumProgress"
+[26104] undo operation= "Extract"
+[26104] undo QtCoreLib operation: Extract
+[26104] \t- arguments: installer://QtCoreLib/1.0.6translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[26130] Done
+[26130] undo operation= "Extract"
+[26130] undo QtCoreLib operation: Extract
+[26130] \t- arguments: installer://QtCoreLib/1.0.6sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[26133] Done
+[26133] undo operation= "Extract"
+[26134] undo QtCoreLib operation: Extract
+[26134] \t- arguments: installer://QtCoreLib/1.0.6printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[26135] Done
+[26135] undo operation= "Extract"
+[26135] undo QtCoreLib operation: Extract
+[26135] \t- arguments: installer://QtCoreLib/1.0.6platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[26137] Done
+[26137] undo operation= "Extract"
+[26137] undo QtCoreLib operation: Extract
+[26137] \t- arguments: installer://QtCoreLib/1.0.6imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[26171] Done
+[26171] undo operation= "Extract"
+[26171] undo QtCoreLib operation: Extract
+[26172] \t- arguments: installer://QtCoreLib/1.0.6iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[26173] Done
+[26173] undo operation= "Extract"
+[26173] undo QtCoreLib operation: Extract
+[26173] \t- arguments: installer://QtCoreLib/1.0.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[26189] Done
+[26208] backup QtCoreLib operation: Extract
+[26208] \t- arguments: installer://QtCoreLib/1.0.7content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[26208] Done
+[26208] perform QtCoreLib operation: Extract
+[26208] \t- arguments: installer://QtCoreLib/1.0.7content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28412] Done
+[28412] backup QtCoreLib operation: Extract
+[28412] \t- arguments: installer://QtCoreLib/1.0.7iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28412] Done
+[28412] perform QtCoreLib operation: Extract
+[28412] \t- arguments: installer://QtCoreLib/1.0.7iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28418] Done
+[28418] backup QtCoreLib operation: Extract
+[28418] \t- arguments: installer://QtCoreLib/1.0.7imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28418] Done
+[28419] perform QtCoreLib operation: Extract
+[28419] \t- arguments: installer://QtCoreLib/1.0.7imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28504] Done
+[28505] backup QtCoreLib operation: Extract
+[28505] \t- arguments: installer://QtCoreLib/1.0.7platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28505] Done
+[28505] perform QtCoreLib operation: Extract
+[28505] \t- arguments: installer://QtCoreLib/1.0.7platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28599] Done
+[28600] backup QtCoreLib operation: Extract
+[28600] \t- arguments: installer://QtCoreLib/1.0.7printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28600] Done
+[28600] perform QtCoreLib operation: Extract
+[28600] \t- arguments: installer://QtCoreLib/1.0.7printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28604] Done
+[28605] backup QtCoreLib operation: Extract
+[28605] \t- arguments: installer://QtCoreLib/1.0.7sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28605] Done
+[28605] perform QtCoreLib operation: Extract
+[28605] \t- arguments: installer://QtCoreLib/1.0.7sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28669] Done
+[28669] backup QtCoreLib operation: Extract
+[28669] \t- arguments: installer://QtCoreLib/1.0.7translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28669] Done
+[28669] perform QtCoreLib operation: Extract
+[28669] \t- arguments: installer://QtCoreLib/1.0.7translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[28747] Done
+[28760] SHOW FINISHED PAGE
+************************************* Invoked: Ba Thg3 6 20:12:35 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[19] Operations sanity check succeeded.
+[2400] addDownloadable "reports.7z"
+[2400] addDownloadable "content.7z"
+[2401] addDownloadable "iconengines.7z"
+[2401] addDownloadable "imageformats.7z"
+[2401] addDownloadable "platforms.7z"
+[2401] addDownloadable "printsupport.7z"
+[2401] addDownloadable "sqldrivers.7z"
+[2401] addDownloadable "translations.7z"
+[2401] addDownloadable "content.7z"
+[9192] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "164.65 GiB"
+[9192] Installation space required: "37.36 MiB" Temporary space required: "3.19 MiB" Local repository size: "0.00 bytes"
+[9898] Install size: 2 components
+[10557] undo operation= "MinimumProgress"
+[10557] undo operation= "CreateShortcut"
+[10557] undo report operation: CreateShortcut
+[10557] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[10558] Done
+[10559] undo operation= "Extract"
+[10559] undo report operation: Extract
+[10559] \t- arguments: installer://report/1.1.5reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10707] Done
+[10707] undo operation= "MinimumProgress"
+[10708] undo operation= "Extract"
+[10708] undo bin operation: Extract
+[10708] \t- arguments: installer://bin/1.2.4content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10712] Done
+[10727] backup report operation: Extract
+[10727] \t- arguments: installer://report/1.1.6reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10727] Done
+[10727] perform report operation: Extract
+[10727] \t- arguments: installer://report/1.1.6reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11140] Done
+[11140] backup report operation: CreateShortcut
+[11140] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[11140] Done
+[11140] perform report operation: CreateShortcut
+[11140] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[11949] Done
+[11950] backup bin operation: Extract
+[11950] \t- arguments: installer://bin/1.2.5content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11950] Done
+[11951] perform bin operation: Extract
+[11951] \t- arguments: installer://bin/1.2.5content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[12222] Done
+[12233] SHOW FINISHED PAGE
+************************************* Invoked: Tu Thg3 7 16:53:21 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[227] Operations sanity check succeeded.
+[5720] addDownloadable "reports.7z"
+[5720] addDownloadable "iconengines.7z"
+[5720] addDownloadable "imageformats.7z"
+[5720] addDownloadable "platforms.7z"
+[5720] addDownloadable "printsupport.7z"
+[5720] addDownloadable "sqldrivers.7z"
+[5720] addDownloadable "translations.7z"
+[5720] addDownloadable "content.7z"
+[5721] addDownloadable "content.7z"
+[8047] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "163.18 GiB"
+[8048] Installation space required: "37.42 MiB" Temporary space required: "3.19 MiB" Local repository size: "0.00 bytes"
+[8901] Install size: 2 components
+[39029] undo operation= "MinimumProgress"
+[39031] undo operation= "Extract"
+[39031] undo bin operation: Extract
+[39031] \t- arguments: installer://bin/1.2.5content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[39035] Done
+[39035] undo operation= "MinimumProgress"
+[39035] undo operation= "CreateShortcut"
+[39035] undo report operation: CreateShortcut
+[39035] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[39037] Done
+[39038] undo operation= "Extract"
+[39038] undo report operation: Extract
+[39038] \t- arguments: installer://report/1.1.6reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[39120] Done
+[39133] backup report operation: Extract
+[39133] \t- arguments: installer://report/1.1.7reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[39133] Done
+[39138] perform report operation: Extract
+[39138] \t- arguments: installer://report/1.1.7reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[39516] Done
+[39516] backup report operation: CreateShortcut
+[39516] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[39516] Done
+[39517] perform report operation: CreateShortcut
+[39517] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[40015] Done
+[40017] backup bin operation: Extract
+[40017] \t- arguments: installer://bin/1.2.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[40017] Done
+[40018] perform bin operation: Extract
+[40018] \t- arguments: installer://bin/1.2.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[40395] Done
+[40409] SHOW FINISHED PAGE
+************************************* Invoked: Tu Thg3 7 17:46:41 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[18] Operations sanity check succeeded.
+[2301] addDownloadable "reports.7z"
+[2301] addDownloadable "iconengines.7z"
+[2301] addDownloadable "imageformats.7z"
+[2301] addDownloadable "platforms.7z"
+[2301] addDownloadable "printsupport.7z"
+[2301] addDownloadable "sqldrivers.7z"
+[2301] addDownloadable "translations.7z"
+[2301] addDownloadable "content.7z"
+[2301] addDownloadable "content.7z"
+[5257] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "162.95 GiB"
+[5257] Installation space required: "37.40 MiB" Temporary space required: "3.20 MiB" Local repository size: "0.00 bytes"
+[5763] Install size: 2 components
+[7339] undo operation= "MinimumProgress"
+[7340] undo operation= "Extract"
+[7341] undo bin operation: Extract
+[7341] \t- arguments: installer://bin/1.2.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7351] Done
+[7351] undo operation= "MinimumProgress"
+[7351] undo operation= "CreateShortcut"
+[7352] undo report operation: CreateShortcut
+[7352] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[7353] Done
+[7354] undo operation= "Extract"
+[7354] undo report operation: Extract
+[7354] \t- arguments: installer://report/1.1.7reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7381] Done
+[7394] backup report operation: Extract
+[7394] \t- arguments: installer://report/1.1.8reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7394] Done
+[7394] perform report operation: Extract
+[7395] \t- arguments: installer://report/1.1.8reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7762] Done
+[7762] backup report operation: CreateShortcut
+[7762] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[7762] Done
+[7762] perform report operation: CreateShortcut
+[7762] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[7868] Done
+[7881] backup bin operation: Extract
+[7881] \t- arguments: installer://bin/1.2.7content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7881] Done
+[7883] perform bin operation: Extract
+[7883] \t- arguments: installer://bin/1.2.7content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[8213] Done
+[8225] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg3 8 15:01:20 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[19] Operations sanity check succeeded.
+[5047] addDownloadable "iconengines.7z"
+[5047] addDownloadable "imageformats.7z"
+[5047] addDownloadable "platforms.7z"
+[5047] addDownloadable "printsupport.7z"
+[5047] addDownloadable "sqldrivers.7z"
+[5047] addDownloadable "translations.7z"
+[5047] addDownloadable "content.7z"
+[5047] addDownloadable "reports.7z"
+[5061] addDownloadable "content.7z"
+[6244] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "162.62 GiB"
+[6244] Installation space required: "37.40 MiB" Temporary space required: "3.20 MiB" Local repository size: "0.00 bytes"
+[7038] Install size: 2 components
+[24360] undo operation= "MinimumProgress"
+[24362] undo operation= "Extract"
+[24362] undo bin operation: Extract
+[24362] \t- arguments: installer://bin/1.2.7content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[24387] Done
+[24388] undo operation= "MinimumProgress"
+[24388] undo operation= "CreateShortcut"
+[24388] undo report operation: CreateShortcut
+[24388] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[24390] Done
+[24390] undo operation= "Extract"
+[24390] undo report operation: Extract
+[24390] \t- arguments: installer://report/1.1.8reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[24489] Done
+[24502] backup report operation: Extract
+[24502] \t- arguments: installer://report/1.1.9reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[24502] Done
+[24503] perform report operation: Extract
+[24503] \t- arguments: installer://report/1.1.9reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[24861] Done
+[24861] backup report operation: CreateShortcut
+[24861] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[24861] Done
+[24861] perform report operation: CreateShortcut
+[24861] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[25005] Done
+[25006] backup bin operation: Extract
+[25006] \t- arguments: installer://bin/1.2.8content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[25006] Done
+[25006] perform bin operation: Extract
+[25006] \t- arguments: installer://bin/1.2.8content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[25249] Done
+[25261] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg3 8 15:36:15 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[14] Operations sanity check succeeded.
+[5433] addDownloadable "iconengines.7z"
+[5433] addDownloadable "imageformats.7z"
+[5433] addDownloadable "platforms.7z"
+[5433] addDownloadable "printsupport.7z"
+[5433] addDownloadable "sqldrivers.7z"
+[5433] addDownloadable "translations.7z"
+[5433] addDownloadable "content.7z"
+[5433] addDownloadable "content.7z"
+[5433] addDownloadable "reports.7z"
+[6882] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "162.60 GiB"
+[6882] Installation space required: "9.55 MiB" Temporary space required: "1.47 MiB" Local repository size: "0.00 bytes"
+[7469] Install size: 1 components
+[9172] undo operation= "MinimumProgress"
+[9172] undo operation= "Extract"
+[9173] undo bin operation: Extract
+[9173] \t- arguments: installer://bin/1.2.8content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9175] Done
+[9182] backup bin operation: Extract
+[9182] \t- arguments: installer://bin/1.2.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9182] Done
+[9182] perform bin operation: Extract
+[9182] \t- arguments: installer://bin/1.2.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[9418] Done
+[9430] SHOW FINISHED PAGE
+************************************* Invoked: Sa´u Thg3 9 14:34:27 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[17] Operations sanity check succeeded.
+[7138] addDownloadable "iconengines.7z"
+[7138] addDownloadable "imageformats.7z"
+[7138] addDownloadable "platforms.7z"
+[7138] addDownloadable "printsupport.7z"
+[7138] addDownloadable "sqldrivers.7z"
+[7138] addDownloadable "translations.7z"
+[7138] addDownloadable "content.7z"
+[7138] addDownloadable "reports.7z"
+[7138] addDownloadable "content.7z"
+[9083] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "162.54 GiB"
+[9083] Installation space required: "9.55 MiB" Temporary space required: "1.46 MiB" Local repository size: "0.00 bytes"
+[10353] Install size: 1 components
+[10775] undo operation= "MinimumProgress"
+[10776] undo operation= "Extract"
+[10776] undo bin operation: Extract
+[10776] \t- arguments: installer://bin/1.2.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10839] Done
+[10900] backup bin operation: Extract
+[10900] \t- arguments: installer://bin/1.3.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10900] Done
+[10900] perform bin operation: Extract
+[10900] \t- arguments: installer://bin/1.3.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11141] Done
+[11153] SHOW FINISHED PAGE
+************************************* Invoked: Tu Thg3 14 17:30:06 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[280] Operations sanity check succeeded.
+[4252] addDownloadable "content.7z"
+[4252] addDownloadable "iconengines.7z"
+[4252] addDownloadable "imageformats.7z"
+[4252] addDownloadable "platforms.7z"
+[4252] addDownloadable "printsupport.7z"
+[4252] addDownloadable "sqldrivers.7z"
+[4252] addDownloadable "translations.7z"
+[4252] addDownloadable "content.7z"
+[4252] addDownloadable "reports.7z"
+[5177] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "163.86 GiB"
+[5177] Installation space required: "104.51 MiB" Temporary space required: "20.28 MiB" Local repository size: "0.00 bytes"
+[5797] Install size: 3 components
+[14074] undo operation= "MinimumProgress"
+[14074] undo operation= "Extract"
+[14074] undo bin operation: Extract
+[14074] \t- arguments: installer://bin/1.3.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14078] Done
+[14078] undo operation= "MinimumProgress"
+[14078] undo operation= "CreateShortcut"
+[14078] undo report operation: CreateShortcut
+[14078] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[14079] Done
+[14079] undo operation= "Extract"
+[14079] undo report operation: Extract
+[14079] \t- arguments: installer://report/1.1.9reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14240] Done
+[14240] undo operation= "MinimumProgress"
+[14241] undo operation= "Extract"
+[14241] undo QtCoreLib operation: Extract
+[14241] \t- arguments: installer://QtCoreLib/1.0.7translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14281] Done
+[14281] undo operation= "Extract"
+[14281] undo QtCoreLib operation: Extract
+[14281] \t- arguments: installer://QtCoreLib/1.0.7sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14287] Done
+[14287] undo operation= "Extract"
+[14287] undo QtCoreLib operation: Extract
+[14287] \t- arguments: installer://QtCoreLib/1.0.7printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14288] Done
+[14289] undo operation= "Extract"
+[14289] undo QtCoreLib operation: Extract
+[14289] \t- arguments: installer://QtCoreLib/1.0.7platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14293] Done
+[14293] undo operation= "Extract"
+[14293] undo QtCoreLib operation: Extract
+[14293] \t- arguments: installer://QtCoreLib/1.0.7imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14373] Done
+[14373] undo operation= "Extract"
+[14373] undo QtCoreLib operation: Extract
+[14373] \t- arguments: installer://QtCoreLib/1.0.7iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14379] Done
+[14380] undo operation= "Extract"
+[14380] undo QtCoreLib operation: Extract
+[14380] \t- arguments: installer://QtCoreLib/1.0.7content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14451] Done
+[14483] backup bin operation: Extract
+[14483] \t- arguments: installer://bin/1.3.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14483] Done
+[14483] perform bin operation: Extract
+[14483] \t- arguments: installer://bin/1.3.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14762] Done
+[14763] backup QtCoreLib operation: Extract
+[14763] \t- arguments: installer://QtCoreLib/1.0.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14763] Done
+[14763] perform QtCoreLib operation: Extract
+[14763] \t- arguments: installer://QtCoreLib/1.0.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17379] Done
+[17379] backup QtCoreLib operation: Extract
+[17379] \t- arguments: installer://QtCoreLib/1.0.9iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17379] Done
+[17379] perform QtCoreLib operation: Extract
+[17379] \t- arguments: installer://QtCoreLib/1.0.9iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17386] Done
+[17387] backup QtCoreLib operation: Extract
+[17387] \t- arguments: installer://QtCoreLib/1.0.9imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17387] Done
+[17387] perform QtCoreLib operation: Extract
+[17387] \t- arguments: installer://QtCoreLib/1.0.9imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17482] Done
+[17483] backup QtCoreLib operation: Extract
+[17483] \t- arguments: installer://QtCoreLib/1.0.9platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17483] Done
+[17483] perform QtCoreLib operation: Extract
+[17483] \t- arguments: installer://QtCoreLib/1.0.9platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17589] Done
+[17589] backup QtCoreLib operation: Extract
+[17589] \t- arguments: installer://QtCoreLib/1.0.9printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17589] Done
+[17589] perform QtCoreLib operation: Extract
+[17589] \t- arguments: installer://QtCoreLib/1.0.9printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17596] Done
+[17597] backup QtCoreLib operation: Extract
+[17597] \t- arguments: installer://QtCoreLib/1.0.9sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17597] Done
+[17597] perform QtCoreLib operation: Extract
+[17597] \t- arguments: installer://QtCoreLib/1.0.9sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17677] Done
+[17677] backup QtCoreLib operation: Extract
+[17677] \t- arguments: installer://QtCoreLib/1.0.9translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17677] Done
+[17677] perform QtCoreLib operation: Extract
+[17677] \t- arguments: installer://QtCoreLib/1.0.9translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17763] Done
+[17764] backup report operation: Extract
+[17764] \t- arguments: installer://report/1.2.0reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17764] Done
+[17764] perform report operation: Extract
+[17764] \t- arguments: installer://report/1.2.0reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18217] Done
+[18217] backup report operation: CreateShortcut
+[18217] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[18218] Done
+[18218] perform report operation: CreateShortcut
+[18218] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[18450] Done
+[18466] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg3 15 15:41:35 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[127] Operations sanity check succeeded.
+[2544] addDownloadable "iconengines.7z"
+[2544] addDownloadable "imageformats.7z"
+[2544] addDownloadable "platforms.7z"
+[2544] addDownloadable "printsupport.7z"
+[2544] addDownloadable "sqldrivers.7z"
+[2544] addDownloadable "translations.7z"
+[2544] addDownloadable "content.7z"
+[2544] addDownloadable "content.7z"
+[2544] addDownloadable "reports.7z"
+************************************* Invoked: Nam Thg3 15 15:42:03 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[18] Operations sanity check succeeded.
+[2272] addDownloadable "content.7z"
+[2273] addDownloadable "iconengines.7z"
+[2273] addDownloadable "imageformats.7z"
+[2273] addDownloadable "platforms.7z"
+[2273] addDownloadable "printsupport.7z"
+[2273] addDownloadable "sqldrivers.7z"
+[2273] addDownloadable "translations.7z"
+[2273] addDownloadable "content.7z"
+[2273] addDownloadable "reports.7z"
+************************************* Invoked: Nam Thg3 15 15:43:07 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[22] Operations sanity check succeeded.
+[2679] addDownloadable "iconengines.7z"
+[2679] addDownloadable "imageformats.7z"
+[2679] addDownloadable "platforms.7z"
+[2679] addDownloadable "printsupport.7z"
+[2679] addDownloadable "sqldrivers.7z"
+[2679] addDownloadable "translations.7z"
+[2679] addDownloadable "content.7z"
+[2680] addDownloadable "content.7z"
+[2680] addDownloadable "reports.7z"
+************************************* Invoked: Nam Thg3 15 15:44:09 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[15] Operations sanity check succeeded.
+[2986] addDownloadable "reports.7z"
+[2986] addDownloadable "iconengines.7z"
+[2986] addDownloadable "imageformats.7z"
+[2986] addDownloadable "platforms.7z"
+[2986] addDownloadable "printsupport.7z"
+[2986] addDownloadable "sqldrivers.7z"
+[2986] addDownloadable "translations.7z"
+[2986] addDownloadable "content.7z"
+[2986] addDownloadable "content.7z"
+************************************* Invoked: Nam Thg3 15 15:47:05 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[16] Operations sanity check succeeded.
+[1840] addDownloadable "iconengines.7z"
+[1840] addDownloadable "imageformats.7z"
+[1840] addDownloadable "platforms.7z"
+[1840] addDownloadable "printsupport.7z"
+[1840] addDownloadable "sqldrivers.7z"
+[1840] addDownloadable "translations.7z"
+[1840] addDownloadable "content.7z"
+[1840] addDownloadable "reports.7z"
+[1840] addDownloadable "content.7z"
+[3444] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "162.95 GiB"
+[3444] Installation space required: "9.71 MiB" Temporary space required: "1.49 MiB" Local repository size: "0.00 bytes"
+[4010] Install size: 1 components
+[4534] undo operation= "MinimumProgress"
+[4534] undo operation= "Extract"
+[4534] undo bin operation: Extract
+[4534] \t- arguments: installer://bin/1.3.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[4614] Done
+[4627] backup bin operation: Extract
+[4627] \t- arguments: installer://bin/1.3.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[4627] Done
+[4627] perform bin operation: Extract
+[4627] \t- arguments: installer://bin/1.3.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[4893] Done
+[4905] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg3 15 17:45:04 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[207] Operations sanity check succeeded.
+[3288] addDownloadable "iconengines.7z"
+[3288] addDownloadable "imageformats.7z"
+[3288] addDownloadable "platforms.7z"
+[3288] addDownloadable "printsupport.7z"
+[3288] addDownloadable "sqldrivers.7z"
+[3288] addDownloadable "translations.7z"
+[3288] addDownloadable "content.7z"
+[3288] addDownloadable "content.7z"
+[3288] addDownloadable "reports.7z"
+[4777] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "162.92 GiB"
+[4777] Installation space required: "9.71 MiB" Temporary space required: "1.49 MiB" Local repository size: "0.00 bytes"
+[5482] Install size: 1 components
+[5828] undo operation= "MinimumProgress"
+[5828] undo operation= "Extract"
+[5829] undo bin operation: Extract
+[5829] \t- arguments: installer://bin/1.3.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5932] Done
+[5943] backup bin operation: Extract
+[5943] \t- arguments: installer://bin/1.3.4content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5943] Done
+[5943] perform bin operation: Extract
+[5943] \t- arguments: installer://bin/1.3.4content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[6191] Done
+[6203] SHOW FINISHED PAGE
+************************************* Invoked: Ba?y Thg3 17 09:44:59 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[181] Operations sanity check succeeded.
+[3047] addDownloadable "reports.7z"
+[3047] addDownloadable "iconengines.7z"
+[3047] addDownloadable "imageformats.7z"
+[3047] addDownloadable "platforms.7z"
+[3047] addDownloadable "printsupport.7z"
+[3047] addDownloadable "sqldrivers.7z"
+[3047] addDownloadable "translations.7z"
+[3047] addDownloadable "content.7z"
+[3047] addDownloadable "content.7z"
+[4342] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "164.38 GiB"
+[4342] Installation space required: "9.72 MiB" Temporary space required: "1.49 MiB" Local repository size: "0.00 bytes"
+[4950] Install size: 1 components
+[6011] undo operation= "MinimumProgress"
+[6015] undo operation= "Extract"
+[6015] undo bin operation: Extract
+[6015] \t- arguments: installer://bin/1.3.4content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[6035] Done
+[6041] backup bin operation: Extract
+[6041] \t- arguments: installer://bin/1.3.5content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[6041] Done
+[6041] perform bin operation: Extract
+[6041] \t- arguments: installer://bin/1.3.5content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[6326] Done
+[6338] SHOW FINISHED PAGE
+************************************* Invoked: CN Thg3 18 18:48:54 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[239] Operations sanity check succeeded.
+[8804] addDownloadable "iconengines.7z"
+[8804] addDownloadable "imageformats.7z"
+[8804] addDownloadable "platforms.7z"
+[8804] addDownloadable "printsupport.7z"
+[8804] addDownloadable "sqldrivers.7z"
+[8804] addDownloadable "translations.7z"
+[8804] addDownloadable "content.7z"
+[8804] addDownloadable "reports.7z"
+[8804] addDownloadable "content.7z"
+[10221] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "162.55 GiB"
+[10221] Installation space required: "9.72 MiB" Temporary space required: "1.49 MiB" Local repository size: "0.00 bytes"
+[10880] Install size: 1 components
+[11722] undo operation= "MinimumProgress"
+[11722] undo operation= "Extract"
+[11723] undo bin operation: Extract
+[11723] \t- arguments: installer://bin/1.3.5content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11804] Done
+[11818] backup bin operation: Extract
+[11818] \t- arguments: installer://bin/1.3.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11818] Done
+[11819] perform bin operation: Extract
+[11819] \t- arguments: installer://bin/1.3.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[12168] Done
+[12183] SHOW FINISHED PAGE
+************************************* Invoked: CN Thg3 25 16:37:37 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[292] Operations sanity check succeeded.
+[3063] addDownloadable "iconengines.7z"
+[3063] addDownloadable "imageformats.7z"
+[3063] addDownloadable "platforms.7z"
+[3063] addDownloadable "printsupport.7z"
+[3063] addDownloadable "sqldrivers.7z"
+[3063] addDownloadable "translations.7z"
+[3063] addDownloadable "content.7z"
+[3063] addDownloadable "reports.7z"
+[3063] addDownloadable "content.7z"
+[7952] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "157.23 GiB"
+[7952] Installation space required: "104.89 MiB" Temporary space required: "20.36 MiB" Local repository size: "0.00 bytes"
+[8700] Install size: 3 components
+[13119] undo operation= "MinimumProgress"
+[13119] undo operation= "CreateShortcut"
+[13119] undo report operation: CreateShortcut
+[13120] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[13121] Done
+[13121] undo operation= "Extract"
+[13121] undo report operation: Extract
+[13121] \t- arguments: installer://report/1.2.0reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[13236] Done
+[13236] undo operation= "MinimumProgress"
+[13237] undo operation= "Extract"
+[13237] undo QtCoreLib operation: Extract
+[13237] \t- arguments: installer://QtCoreLib/1.0.9translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[13288] Done
+[13288] undo operation= "Extract"
+[13288] undo QtCoreLib operation: Extract
+[13288] \t- arguments: installer://QtCoreLib/1.0.9sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[13294] Done
+[13294] undo operation= "Extract"
+[13294] undo QtCoreLib operation: Extract
+[13294] \t- arguments: installer://QtCoreLib/1.0.9printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[13297] Done
+[13298] undo operation= "Extract"
+[13298] undo QtCoreLib operation: Extract
+[13298] \t- arguments: installer://QtCoreLib/1.0.9platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[13300] Done
+[13301] undo operation= "Extract"
+[13301] undo QtCoreLib operation: Extract
+[13301] \t- arguments: installer://QtCoreLib/1.0.9imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[13326] Done
+[13327] undo operation= "Extract"
+[13327] undo QtCoreLib operation: Extract
+[13327] \t- arguments: installer://QtCoreLib/1.0.9iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[13330] Done
+[13330] undo operation= "Extract"
+[13330] undo QtCoreLib operation: Extract
+[13330] \t- arguments: installer://QtCoreLib/1.0.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[13349] Done
+[13350] undo operation= "MinimumProgress"
+[13350] undo operation= "Extract"
+[13350] undo bin operation: Extract
+[13350] \t- arguments: installer://bin/1.3.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[13354] Done
+[13385] backup QtCoreLib operation: Extract
+[13385] \t- arguments: installer://QtCoreLib/1.1.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[13385] Done
+[13385] perform QtCoreLib operation: Extract
+[13385] \t- arguments: installer://QtCoreLib/1.1.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15469] Done
+[15469] backup QtCoreLib operation: Extract
+[15469] \t- arguments: installer://QtCoreLib/1.1.0iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15469] Done
+[15469] perform QtCoreLib operation: Extract
+[15469] \t- arguments: installer://QtCoreLib/1.1.0iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15474] Done
+[15474] backup QtCoreLib operation: Extract
+[15474] \t- arguments: installer://QtCoreLib/1.1.0imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15474] Done
+[15475] perform QtCoreLib operation: Extract
+[15475] \t- arguments: installer://QtCoreLib/1.1.0imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15638] Done
+[15638] backup QtCoreLib operation: Extract
+[15638] \t- arguments: installer://QtCoreLib/1.1.0platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15638] Done
+[15638] perform QtCoreLib operation: Extract
+[15638] \t- arguments: installer://QtCoreLib/1.1.0platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15747] Done
+[15748] backup QtCoreLib operation: Extract
+[15748] \t- arguments: installer://QtCoreLib/1.1.0printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15748] Done
+[15748] perform QtCoreLib operation: Extract
+[15748] \t- arguments: installer://QtCoreLib/1.1.0printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15753] Done
+[15753] backup QtCoreLib operation: Extract
+[15753] \t- arguments: installer://QtCoreLib/1.1.0sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15753] Done
+[15753] perform QtCoreLib operation: Extract
+[15753] \t- arguments: installer://QtCoreLib/1.1.0sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15816] Done
+[15817] backup QtCoreLib operation: Extract
+[15817] \t- arguments: installer://QtCoreLib/1.1.0translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[15817] Done
+[15817] perform QtCoreLib operation: Extract
+[15817] \t- arguments: installer://QtCoreLib/1.1.0translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16062] Done
+[16064] backup report operation: Extract
+[16064] \t- arguments: installer://report/1.2.1reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16064] Done
+[16064] perform report operation: Extract
+[16064] \t- arguments: installer://report/1.2.1reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16736] Done
+[16736] backup report operation: CreateShortcut
+[16736] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[16737] Done
+[16737] perform report operation: CreateShortcut
+[16737] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[17015] Done
+[17018] backup bin operation: Extract
+[17018] \t- arguments: installer://bin/1.3.7content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17018] Done
+[17019] perform bin operation: Extract
+[17019] \t- arguments: installer://bin/1.3.7content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17308] Done
+[17322] SHOW FINISHED PAGE
+************************************* Invoked: Hai Thg3 26 19:38:34 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[192] Operations sanity check succeeded.
+[2897] addDownloadable "content.7z"
+[2898] addDownloadable "reports.7z"
+[2898] addDownloadable "iconengines.7z"
+[2898] addDownloadable "imageformats.7z"
+[2898] addDownloadable "platforms.7z"
+[2898] addDownloadable "printsupport.7z"
+[2898] addDownloadable "sqldrivers.7z"
+[2898] addDownloadable "translations.7z"
+[2898] addDownloadable "content.7z"
+[4127] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "149.30 GiB"
+[4127] Installation space required: "77.11 MiB" Temporary space required: "18.64 MiB" Local repository size: "0.00 bytes"
+[4895] Install size: 2 components
+[11743] undo operation= "MinimumProgress"
+[11743] undo operation= "Extract"
+[11743] undo bin operation: Extract
+[11743] \t- arguments: installer://bin/1.3.7content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11745] Done
+[11745] undo operation= "MinimumProgress"
+[11745] undo operation= "Extract"
+[11745] undo QtCoreLib operation: Extract
+[11745] \t- arguments: installer://QtCoreLib/1.1.0translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11754] Done
+[11754] undo operation= "Extract"
+[11755] undo QtCoreLib operation: Extract
+[11755] \t- arguments: installer://QtCoreLib/1.1.0sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11757] Done
+[11757] undo operation= "Extract"
+[11757] undo QtCoreLib operation: Extract
+[11757] \t- arguments: installer://QtCoreLib/1.1.0printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11758] Done
+[11759] undo operation= "Extract"
+[11759] undo QtCoreLib operation: Extract
+[11759] \t- arguments: installer://QtCoreLib/1.1.0platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11760] Done
+[11761] undo operation= "Extract"
+[11761] undo QtCoreLib operation: Extract
+[11761] \t- arguments: installer://QtCoreLib/1.1.0imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11803] Done
+[11803] undo operation= "Extract"
+[11803] undo QtCoreLib operation: Extract
+[11804] \t- arguments: installer://QtCoreLib/1.1.0iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11805] Done
+[11805] undo operation= "Extract"
+[11805] undo QtCoreLib operation: Extract
+[11805] \t- arguments: installer://QtCoreLib/1.1.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11815] Done
+[11839] backup bin operation: Extract
+[11839] \t- arguments: installer://bin/1.3.8content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[11839] Done
+[11839] perform bin operation: Extract
+[11839] \t- arguments: installer://bin/1.3.8content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[12086] Done
+[12087] backup QtCoreLib operation: Extract
+[12087] \t- arguments: installer://QtCoreLib/1.1.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[12087] Done
+[12087] perform QtCoreLib operation: Extract
+[12087] \t- arguments: installer://QtCoreLib/1.1.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14160] Done
+[14160] backup QtCoreLib operation: Extract
+[14160] \t- arguments: installer://QtCoreLib/1.1.1iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14160] Done
+[14160] perform QtCoreLib operation: Extract
+[14160] \t- arguments: installer://QtCoreLib/1.1.1iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14165] Done
+[14165] backup QtCoreLib operation: Extract
+[14165] \t- arguments: installer://QtCoreLib/1.1.1imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14165] Done
+[14165] perform QtCoreLib operation: Extract
+[14165] \t- arguments: installer://QtCoreLib/1.1.1imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14350] Done
+[14350] backup QtCoreLib operation: Extract
+[14350] \t- arguments: installer://QtCoreLib/1.1.1platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14350] Done
+[14350] perform QtCoreLib operation: Extract
+[14350] \t- arguments: installer://QtCoreLib/1.1.1platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14440] Done
+[14440] backup QtCoreLib operation: Extract
+[14440] \t- arguments: installer://QtCoreLib/1.1.1printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14440] Done
+[14440] perform QtCoreLib operation: Extract
+[14440] \t- arguments: installer://QtCoreLib/1.1.1printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14446] Done
+[14446] backup QtCoreLib operation: Extract
+[14446] \t- arguments: installer://QtCoreLib/1.1.1sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14446] Done
+[14446] perform QtCoreLib operation: Extract
+[14446] \t- arguments: installer://QtCoreLib/1.1.1sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14509] Done
+[14509] backup QtCoreLib operation: Extract
+[14509] \t- arguments: installer://QtCoreLib/1.1.1translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14509] Done
+[14509] perform QtCoreLib operation: Extract
+[14509] \t- arguments: installer://QtCoreLib/1.1.1translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14582] Done
+[14593] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg3 29 09:57:47 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[210] Operations sanity check succeeded.
+[2957] addDownloadable "content.7z"
+[2957] addDownloadable "iconengines.7z"
+[2957] addDownloadable "imageformats.7z"
+[2957] addDownloadable "platforms.7z"
+[2957] addDownloadable "printsupport.7z"
+[2957] addDownloadable "sqldrivers.7z"
+[2957] addDownloadable "translations.7z"
+[2957] addDownloadable "content.7z"
+[2957] addDownloadable "reports.7z"
+[4072] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "149.11 GiB"
+[4072] Installation space required: "105.02 MiB" Temporary space required: "20.40 MiB" Local repository size: "0.00 bytes"
+[4776] Install size: 3 components
+[14407] undo operation= "MinimumProgress"
+[14407] undo operation= "CreateShortcut"
+[14407] undo report operation: CreateShortcut
+[14407] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[14408] Done
+[14408] undo operation= "Extract"
+[14408] undo report operation: Extract
+[14408] \t- arguments: installer://report/1.2.1reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14456] Done
+[14456] undo operation= "MinimumProgress"
+[14457] undo operation= "Extract"
+[14457] undo QtCoreLib operation: Extract
+[14457] \t- arguments: installer://QtCoreLib/1.1.1translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14466] Done
+[14466] undo operation= "Extract"
+[14467] undo QtCoreLib operation: Extract
+[14467] \t- arguments: installer://QtCoreLib/1.1.1sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14469] Done
+[14469] undo operation= "Extract"
+[14469] undo QtCoreLib operation: Extract
+[14469] \t- arguments: installer://QtCoreLib/1.1.1printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14471] Done
+[14471] undo operation= "Extract"
+[14471] undo QtCoreLib operation: Extract
+[14471] \t- arguments: installer://QtCoreLib/1.1.1platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14473] Done
+[14473] undo operation= "Extract"
+[14473] undo QtCoreLib operation: Extract
+[14473] \t- arguments: installer://QtCoreLib/1.1.1imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14507] Done
+[14507] undo operation= "Extract"
+[14507] undo QtCoreLib operation: Extract
+[14507] \t- arguments: installer://QtCoreLib/1.1.1iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14508] Done
+[14509] undo operation= "Extract"
+[14509] undo QtCoreLib operation: Extract
+[14509] \t- arguments: installer://QtCoreLib/1.1.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14520] Done
+[14521] undo operation= "MinimumProgress"
+[14521] undo operation= "Extract"
+[14521] undo bin operation: Extract
+[14521] \t- arguments: installer://bin/1.3.8content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14523] Done
+[14550] backup bin operation: Extract
+[14550] \t- arguments: installer://bin/1.3.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14550] Done
+[14551] perform bin operation: Extract
+[14551] \t- arguments: installer://bin/1.3.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14776] Done
+[14777] backup QtCoreLib operation: Extract
+[14777] \t- arguments: installer://QtCoreLib/1.1.2content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[14777] Done
+[14777] perform QtCoreLib operation: Extract
+[14777] \t- arguments: installer://QtCoreLib/1.1.2content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16995] Done
+[16996] backup QtCoreLib operation: Extract
+[16996] \t- arguments: installer://QtCoreLib/1.1.2iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16996] Done
+[16996] perform QtCoreLib operation: Extract
+[16996] \t- arguments: installer://QtCoreLib/1.1.2iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17006] Done
+[17006] backup QtCoreLib operation: Extract
+[17006] \t- arguments: installer://QtCoreLib/1.1.2imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17006] Done
+[17006] perform QtCoreLib operation: Extract
+[17006] \t- arguments: installer://QtCoreLib/1.1.2imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17092] Done
+[17093] backup QtCoreLib operation: Extract
+[17093] \t- arguments: installer://QtCoreLib/1.1.2platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17093] Done
+[17093] perform QtCoreLib operation: Extract
+[17093] \t- arguments: installer://QtCoreLib/1.1.2platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17189] Done
+[17189] backup QtCoreLib operation: Extract
+[17189] \t- arguments: installer://QtCoreLib/1.1.2printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17189] Done
+[17189] perform QtCoreLib operation: Extract
+[17189] \t- arguments: installer://QtCoreLib/1.1.2printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17197] Done
+[17197] backup QtCoreLib operation: Extract
+[17197] \t- arguments: installer://QtCoreLib/1.1.2sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17197] Done
+[17197] perform QtCoreLib operation: Extract
+[17197] \t- arguments: installer://QtCoreLib/1.1.2sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17269] Done
+[17269] backup QtCoreLib operation: Extract
+[17269] \t- arguments: installer://QtCoreLib/1.1.2translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17269] Done
+[17269] perform QtCoreLib operation: Extract
+[17269] \t- arguments: installer://QtCoreLib/1.1.2translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17373] Done
+[17375] backup report operation: Extract
+[17375] \t- arguments: installer://report/1.2.2reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17375] Done
+[17375] perform report operation: Extract
+[17375] \t- arguments: installer://report/1.2.2reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[17777] Done
+[17777] backup report operation: CreateShortcut
+[17777] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[17777] Done
+[17777] perform report operation: CreateShortcut
+[17777] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[18094] Done
+[18105] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg3 29 10:03:37 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[81] Operations sanity check succeeded.
+[2095] Checksum mismatch detected 'http://baokhoa.ddns.net/qtapp/rep_dichvu/bin/1.3.9meta.7z'.
+[10336] Checksum mismatch detected 'http://baokhoa.ddns.net/qtapp/rep_dichvu/bin/1.3.9meta.7z'.
+************************************* Invoked: Nam Thg3 29 10:11:06 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[59] Operations sanity check succeeded.
+[1916] addDownloadable "iconengines.7z"
+[1916] addDownloadable "imageformats.7z"
+[1916] addDownloadable "platforms.7z"
+[1916] addDownloadable "printsupport.7z"
+[1916] addDownloadable "sqldrivers.7z"
+[1916] addDownloadable "translations.7z"
+[1916] addDownloadable "content.7z"
+[1916] addDownloadable "content.7z"
+[1916] addDownloadable "reports.7z"
+[5371] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "149.11 GiB"
+[5371] Installation space required: "106.02 MiB" Temporary space required: "20.40 MiB" Local repository size: "0.00 bytes"
+[6158] Install size: 3 components
+[15970] undo operation= "MinimumProgress"
+[15971] undo operation= "CreateShortcut"
+[15971] undo report operation: CreateShortcut
+[15971] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[15972] Done
+[15973] undo operation= "Extract"
+[15973] undo report operation: Extract
+[15973] \t- arguments: installer://report/1.2.2reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16083] Done
+[16084] undo operation= "MinimumProgress"
+[16084] undo operation= "Extract"
+[16085] undo QtCoreLib operation: Extract
+[16085] \t- arguments: installer://QtCoreLib/1.1.2translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16109] Done
+[16109] undo operation= "Extract"
+[16109] undo QtCoreLib operation: Extract
+[16109] \t- arguments: installer://QtCoreLib/1.1.2sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16112] Done
+[16112] undo operation= "Extract"
+[16113] undo QtCoreLib operation: Extract
+[16113] \t- arguments: installer://QtCoreLib/1.1.2printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16114] Done
+[16114] undo operation= "Extract"
+[16114] undo QtCoreLib operation: Extract
+[16114] \t- arguments: installer://QtCoreLib/1.1.2platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16117] Done
+[16117] undo operation= "Extract"
+[16117] undo QtCoreLib operation: Extract
+[16117] \t- arguments: installer://QtCoreLib/1.1.2imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16180] Done
+[16180] undo operation= "Extract"
+[16180] undo QtCoreLib operation: Extract
+[16180] \t- arguments: installer://QtCoreLib/1.1.2iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16183] Done
+[16183] undo operation= "Extract"
+[16183] undo QtCoreLib operation: Extract
+[16183] \t- arguments: installer://QtCoreLib/1.1.2content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16214] Done
+[16214] undo operation= "MinimumProgress"
+[16215] undo operation= "Extract"
+[16215] undo bin operation: Extract
+[16215] \t- arguments: installer://bin/1.3.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16217] Done
+[16249] backup QtCoreLib operation: Extract
+[16249] \t- arguments: installer://QtCoreLib/1.1.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[16249] Done
+[16249] perform QtCoreLib operation: Extract
+[16250] \t- arguments: installer://QtCoreLib/1.1.3content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18523] Done
+[18523] backup QtCoreLib operation: Extract
+[18523] \t- arguments: installer://QtCoreLib/1.1.3iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18523] Done
+[18524] perform QtCoreLib operation: Extract
+[18524] \t- arguments: installer://QtCoreLib/1.1.3iconengines.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18530] Done
+[18531] backup QtCoreLib operation: Extract
+[18531] \t- arguments: installer://QtCoreLib/1.1.3imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18531] Done
+[18531] perform QtCoreLib operation: Extract
+[18531] \t- arguments: installer://QtCoreLib/1.1.3imageformats.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18610] Done
+[18610] backup QtCoreLib operation: Extract
+[18610] \t- arguments: installer://QtCoreLib/1.1.3platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18610] Done
+[18610] perform QtCoreLib operation: Extract
+[18610] \t- arguments: installer://QtCoreLib/1.1.3platforms.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18712] Done
+[18712] backup QtCoreLib operation: Extract
+[18712] \t- arguments: installer://QtCoreLib/1.1.3printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18712] Done
+[18712] perform QtCoreLib operation: Extract
+[18712] \t- arguments: installer://QtCoreLib/1.1.3printsupport.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18717] Done
+[18717] backup QtCoreLib operation: Extract
+[18717] \t- arguments: installer://QtCoreLib/1.1.3sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18717] Done
+[18717] perform QtCoreLib operation: Extract
+[18717] \t- arguments: installer://QtCoreLib/1.1.3sqldrivers.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18789] Done
+[18790] backup QtCoreLib operation: Extract
+[18790] \t- arguments: installer://QtCoreLib/1.1.3translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18790] Done
+[18790] perform QtCoreLib operation: Extract
+[18790] \t- arguments: installer://QtCoreLib/1.1.3translations.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18958] Done
+[18959] backup bin operation: Extract
+[18959] \t- arguments: installer://bin/1.4.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[18959] Done
+[18959] perform bin operation: Extract
+[18959] \t- arguments: installer://bin/1.4.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[19201] Done
+[19202] backup report operation: Extract
+[19202] \t- arguments: installer://report/1.2.4reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[19202] Done
+[19202] perform report operation: Extract
+[19202] \t- arguments: installer://report/1.2.4reports.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[19604] Done
+[19604] backup report operation: CreateShortcut
+[19604] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[19604] Done
+[19605] perform report operation: CreateShortcut
+[19605] \t- arguments: C:\\Program Files\\Bao Khoa\\dichvu/isuzu.exe, C:\\Users\\Bao\\Desktop/DichVu.lnk
+[19897] Done
+[19911] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg3 29 13:24:36 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[19] Operations sanity check succeeded.
+[2222] addDownloadable "content.7z"
+[2222] addDownloadable "reports.7z"
+[2222] addDownloadable "iconengines.7z"
+[2222] addDownloadable "imageformats.7z"
+[2222] addDownloadable "platforms.7z"
+[2222] addDownloadable "printsupport.7z"
+[2222] addDownloadable "sqldrivers.7z"
+[2222] addDownloadable "translations.7z"
+[2222] addDownloadable "content.7z"
+[3630] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "149.12 GiB"
+[3630] Installation space required: "9.17 MiB" Temporary space required: "1.38 MiB" Local repository size: "0.00 bytes"
+[4357] Install size: 1 components
+[4845] undo operation= "MinimumProgress"
+[4845] undo operation= "Extract"
+[4845] undo bin operation: Extract
+[4845] \t- arguments: installer://bin/1.4.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[4848] Done
+[4899] backup bin operation: Extract
+[4899] \t- arguments: installer://bin/1.4.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[4899] Done
+[4900] perform bin operation: Extract
+[4900] \t- arguments: installer://bin/1.4.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5137] Done
+[5148] SHOW FINISHED PAGE
+************************************* Invoked: CN Thg4 1 17:59:52 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[282] Operations sanity check succeeded.
+[3503] addDownloadable "reports.7z"
+[3503] addDownloadable "iconengines.7z"
+[3503] addDownloadable "imageformats.7z"
+[3503] addDownloadable "platforms.7z"
+[3503] addDownloadable "printsupport.7z"
+[3503] addDownloadable "sqldrivers.7z"
+[3503] addDownloadable "translations.7z"
+[3503] addDownloadable "content.7z"
+[3503] addDownloadable "content.7z"
+[4403] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "157.72 GiB"
+[4403] Installation space required: "9.18 MiB" Temporary space required: "1.39 MiB" Local repository size: "0.00 bytes"
+[5008] Install size: 1 components
+[5430] undo operation= "MinimumProgress"
+[5430] undo operation= "Extract"
+[5430] undo bin operation: Extract
+[5430] \t- arguments: installer://bin/1.4.1content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5433] Done
+[5440] backup bin operation: Extract
+[5441] \t- arguments: installer://bin/1.4.2content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5441] Done
+[5441] perform bin operation: Extract
+[5441] \t- arguments: installer://bin/1.4.2content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5726] Done
+[5740] SHOW FINISHED PAGE
+************************************* Invoked: Ba Thg4 3 08:22:34 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[294] Operations sanity check succeeded.
+[3160] addDownloadable "content.7z"
+[3160] addDownloadable "reports.7z"
+[3160] addDownloadable "iconengines.7z"
+[3160] addDownloadable "imageformats.7z"
+[3160] addDownloadable "platforms.7z"
+[3160] addDownloadable "printsupport.7z"
+[3160] addDownloadable "sqldrivers.7z"
+[3160] addDownloadable "translations.7z"
+[3160] addDownloadable "content.7z"
+[4476] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "153.78 GiB"
+[4476] Installation space required: "9.18 MiB" Temporary space required: "1.39 MiB" Local repository size: "0.00 bytes"
+[6998] Install size: 1 components
+[7401] undo operation= "MinimumProgress"
+[7402] undo operation= "Extract"
+[7402] undo bin operation: Extract
+[7402] \t- arguments: installer://bin/1.4.2content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7403] Done
+[7409] backup bin operation: Extract
+[7409] \t- arguments: installer://bin/1.4.4content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7409] Done
+[7409] perform bin operation: Extract
+[7409] \t- arguments: installer://bin/1.4.4content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7632] Done
+[7643] SHOW FINISHED PAGE
+************************************* Invoked: Ba Thg4 3 18:50:40 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[209] Operations sanity check succeeded.
+[3318] addDownloadable "iconengines.7z"
+[3318] addDownloadable "imageformats.7z"
+[3318] addDownloadable "platforms.7z"
+[3318] addDownloadable "printsupport.7z"
+[3318] addDownloadable "sqldrivers.7z"
+[3318] addDownloadable "translations.7z"
+[3318] addDownloadable "content.7z"
+[3318] addDownloadable "content.7z"
+[3318] addDownloadable "reports.7z"
+[4529] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "153.75 GiB"
+[4529] Installation space required: "9.19 MiB" Temporary space required: "1.39 MiB" Local repository size: "0.00 bytes"
+[5143] Install size: 1 components
+[5558] undo operation= "MinimumProgress"
+[5558] undo operation= "Extract"
+[5558] undo bin operation: Extract
+[5558] \t- arguments: installer://bin/1.4.4content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5560] Done
+[5566] backup bin operation: Extract
+[5566] \t- arguments: installer://bin/1.4.5content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5566] Done
+[5566] perform bin operation: Extract
+[5566] \t- arguments: installer://bin/1.4.5content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5791] Done
+[5803] SHOW FINISHED PAGE
+************************************* Invoked: Tu Thg4 4 08:39:07 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[1511] Operations sanity check succeeded.
+[5310] addDownloadable "content.7z"
+[5310] addDownloadable "reports.7z"
+[5310] addDownloadable "iconengines.7z"
+[5310] addDownloadable "imageformats.7z"
+[5310] addDownloadable "platforms.7z"
+[5310] addDownloadable "printsupport.7z"
+[5310] addDownloadable "sqldrivers.7z"
+[5311] addDownloadable "translations.7z"
+[5311] addDownloadable "content.7z"
+[6162] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "157.13 GiB"
+[6162] Installation space required: "9.18 MiB" Temporary space required: "1.39 MiB" Local repository size: "0.00 bytes"
+[6761] Install size: 1 components
+[7196] undo operation= "MinimumProgress"
+[7196] undo operation= "Extract"
+[7196] undo bin operation: Extract
+[7196] \t- arguments: installer://bin/1.4.5content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7198] Done
+[7203] backup bin operation: Extract
+[7203] \t- arguments: installer://bin/1.4.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7203] Done
+[7204] perform bin operation: Extract
+[7204] \t- arguments: installer://bin/1.4.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[7428] Done
+[7439] SHOW FINISHED PAGE
+************************************* Invoked: Tu Thg4 4 18:49:18 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[289] Operations sanity check succeeded.
+[3296] addDownloadable "reports.7z"
+[3296] addDownloadable "iconengines.7z"
+[3296] addDownloadable "imageformats.7z"
+[3296] addDownloadable "platforms.7z"
+[3296] addDownloadable "printsupport.7z"
+[3296] addDownloadable "sqldrivers.7z"
+[3296] addDownloadable "translations.7z"
+[3296] addDownloadable "content.7z"
+[3297] addDownloadable "content.7z"
+[4630] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "157.12 GiB"
+[4630] Installation space required: "9.19 MiB" Temporary space required: "1.39 MiB" Local repository size: "0.00 bytes"
+[5261] Install size: 1 components
+[5615] undo operation= "MinimumProgress"
+[5616] undo operation= "Extract"
+[5616] undo bin operation: Extract
+[5616] \t- arguments: installer://bin/1.4.6content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5618] Done
+[5624] backup bin operation: Extract
+[5625] \t- arguments: installer://bin/1.4.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5625] Done
+[5625] perform bin operation: Extract
+[5625] \t- arguments: installer://bin/1.4.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[5856] Done
+[5867] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg4 5 09:01:12 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[360] Operations sanity check succeeded.
+[3698] addDownloadable "reports.7z"
+[3698] addDownloadable "content.7z"
+[3698] addDownloadable "iconengines.7z"
+[3698] addDownloadable "imageformats.7z"
+[3698] addDownloadable "platforms.7z"
+[3698] addDownloadable "printsupport.7z"
+[3698] addDownloadable "sqldrivers.7z"
+[3698] addDownloadable "translations.7z"
+[3698] addDownloadable "content.7z"
+[9361] Tmp and install folder are on the same volume. Volume mount point: "C:\\" Free space available: "157.12 GiB"
+[9361] Installation space required: "9.19 MiB" Temporary space required: "1.39 MiB" Local repository size: "0.00 bytes"
+[10191] Install size: 1 components
+[10691] undo operation= "MinimumProgress"
+[10691] undo operation= "Extract"
+[10691] undo bin operation: Extract
+[10691] \t- arguments: installer://bin/1.4.9content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10693] Done
+[10699] backup bin operation: Extract
+[10699] \t- arguments: installer://bin/1.5.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10699] Done
+[10699] perform bin operation: Extract
+[10699] \t- arguments: installer://bin/1.5.0content.7z, C:\\Program Files\\Bao Khoa\\dichvu
+[10934] Done
+[10946] SHOW FINISHED PAGE
+************************************* Invoked: Nam Thg4 5 19:02:57 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[301] Operations sanity check succeeded.
+[3393] Network error while downloading 'http://baokhoa.ddns.net/qtapp/rep_dichvu/QtCoreLib/1.0.3meta.7z': Error transferring http://baokhoa.ddns.net/qtapp/rep_dichvu/QtCoreLib/1.0.3meta.7z - server replied: Not Found.
+************************************* Invoked: Nam Thg4 5 19:04:59 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[15] Operations sanity check succeeded.
+[1709] Network error while downloading 'http://baokhoa.ddns.net/qtapp/rep_dichvu/QtCoreLib/1.0.3meta.7z': Error transferring http://baokhoa.ddns.net/qtapp/rep_dichvu/QtCoreLib/1.0.3meta.7z - server replied: Not Found.
+************************************* Invoked: Nam Thg4 5 19:07:25 2018
+[0] Arguments:  C:\Program Files\Bao Khoa\dichvu\maintenancetool.exe
+[18] Operations sanity check succeeded.
+[2047] Network error while downloading 'http://baokhoa.ddns.net/qtapp/rep_dichvu/QtCoreLib/1.0.3meta.7z': Error transferring http://baokhoa.ddns.net/qtapp/rep_dichvu/QtCoreLib/1.0.3meta.7z - server replied: Not Found.

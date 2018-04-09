@@ -1,0 +1,39 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>QtCoreLib</Name>
+  <DisplayName>Qt Core Lib</DisplayName>
+  <Description>Các thư viện chạy phần mềm dịch vụ</Description>
+  <Version>1.0.5</Version>
+  <ReleaseDate>2018-01-29</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="19838913" OS="Any" UncompressedSize="99140476"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,mailinh_report.7z,platforms.7z,printsupport.7z,sqldrivers.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>73aa1a915f9273ae9e03b0d7df0fe41dcd54a7eb</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>report</Name>
+  <DisplayName>Report</DisplayName>
+  <Description>Các thành phần report cho dich vụ</Description>
+  <Version>1.0.0-1</Version>
+  <ReleaseDate>2018-01-05</ReleaseDate>
+  <Script>installscript.qs</Script>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="1642829" OS="Any" UncompressedSize="20686558"/>
+  <DownloadableArchives>reports.7z</DownloadableArchives>
+  <SHA1>1d388b581d3fa3b3de789188e346016fb99c2788</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>bin</Name>
+  <DisplayName>Bin</DisplayName>
+  <Description>Các thành chính</Description>
+  <Version>1.4.3</Version>
+  <ReleaseDate>2018-04-02</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="1321636" OS="Any" UncompressedSize="8752349"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>311352834f130cf6bed4041af2927bb591f5fd14</SHA1>
+ </PackageUpdate>
+</Updates>

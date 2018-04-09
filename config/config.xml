@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Phần mềm quản lý kho</Name>
+    <Version>1.0.0</Version>
+    <Title>Phần mềm quản lý kho công ty Bảo Khoa</Title>
+    <Publisher>Bao khoa soft</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>KhoBaoKhoa</StartMenuDir>
+    <TargetDir>@ThuMucCaiDat@</TargetDir>
+    <CreateLocalRepository>true</CreateLocalRepository>
+    <RemoteRepositories>
+        <Repository displayname="Res kho bao kho">
+            <Url>http://baokhoa.ddns.net/qtapp/rep_baoKhoa</Url>
+        </Repository>
+    </RemoteRepositories>
+</Installer>
