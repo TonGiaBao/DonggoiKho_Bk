@@ -3,37 +3,37 @@
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
-  <Name>report</Name>
-  <DisplayName>Report</DisplayName>
-  <Description>Các thành phần report cho dich vụ</Description>
-  <Version>1.0.8</Version>
-  <ReleaseDate>2018-04-09</ReleaseDate>
-  <Script>installscript.qs</Script>
-  <Default>true</Default>
-  <UpdateFile UncompressedSize="9036996" CompressedSize="768234" OS="Any"/>
-  <DownloadableArchives>reports.7z</DownloadableArchives>
-  <SHA1>70e8458bb849bb991ce0d5d44f24e202cd85c0b5</SHA1>
- </PackageUpdate>
- <PackageUpdate>
   <Name>QtCoreLib</Name>
   <DisplayName>Qt Core Lib</DisplayName>
   <Description>Các thư viện chạy phần mềm dịch vụ</Description>
-  <Version>1.0.8</Version>
-  <ReleaseDate>2018-04-09</ReleaseDate>
+  <Version>1.0.9</Version>
+  <ReleaseDate>2018-04-12</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="110967262" CompressedSize="24189617" OS="Any"/>
-  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,reports.7z,sqldrivers.7z,translations.7z,content.7z</DownloadableArchives>
-  <SHA1>bba7a3bcc14be433b0bfc69664e6e242d51fa975</SHA1>
+  <UpdateFile UncompressedSize="64829901" OS="Any" CompressedSize="16467110"/>
+  <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,sqldrivers.7z,translations.7z,content.7z</DownloadableArchives>
+  <SHA1>bd72e4aeef760f3ec99c82d97a34fe911db4d168</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>report</Name>
+  <DisplayName>Report</DisplayName>
+  <Description>Các thành phần report cho dich vụ</Description>
+  <Version>1.0.9</Version>
+  <ReleaseDate>2018-04-12</ReleaseDate>
+  <Script>installscript.qs</Script>
+  <Default>true</Default>
+  <UpdateFile UncompressedSize="9036996" OS="Any" CompressedSize="768234"/>
+  <DownloadableArchives>reports.7z</DownloadableArchives>
+  <SHA1>dc0ea8ccd84009c2cb6fd142099fb89e277965b1</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>bin</Name>
   <DisplayName>Bin</DisplayName>
   <Description>Các thành chính</Description>
-  <Version>1.1.7</Version>
-  <ReleaseDate>2018-04-09</ReleaseDate>
+  <Version>1.2.5</Version>
+  <ReleaseDate>2018-04-14</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="8779966" CompressedSize="1329466" OS="Any"/>
+  <UpdateFile UncompressedSize="8787134" OS="Any" CompressedSize="1329536"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>9853479503eb225bbd9cee09b13fd55941fe6fba</SHA1>
+  <SHA1>181d0b5d4f874f92ce9ecb4ca47f55b4e46f0089</SHA1>
  </PackageUpdate>
 </Updates>
