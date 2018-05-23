@@ -9,7 +9,7 @@
   <Version>1.0.9</Version>
   <ReleaseDate>2018-04-12</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="64829901" CompressedSize="16467110" OS="Any"/>
+  <UpdateFile CompressedSize="16467110" OS="Any" UncompressedSize="64829901"/>
   <DownloadableArchives>iconengines.7z,imageformats.7z,platforms.7z,printsupport.7z,sqldrivers.7z,translations.7z,content.7z</DownloadableArchives>
   <SHA1>bd72e4aeef760f3ec99c82d97a34fe911db4d168</SHA1>
  </PackageUpdate>
@@ -17,23 +17,23 @@
   <Name>bin</Name>
   <DisplayName>Bin</DisplayName>
   <Description>Các thành chính</Description>
-  <Version>1.3.1</Version>
-  <ReleaseDate>2018-04-26</ReleaseDate>
+  <Version>1.3.2</Version>
+  <ReleaseDate>2018-05-22</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="8883898" CompressedSize="1329668" OS="Any"/>
+  <UpdateFile CompressedSize="1327269" OS="Any" UncompressedSize="8885946"/>
   <DownloadableArchives>content.7z</DownloadableArchives>
-  <SHA1>0fde8aad107da5571458608e70f5799d0a52d65d</SHA1>
+  <SHA1>6ad2de5c7d65e301d665722462b30810b898eb21</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>report</Name>
   <DisplayName>Report</DisplayName>
   <Description>Các thành phần report cho dich vụ</Description>
-  <Version>1.1.4</Version>
-  <ReleaseDate>2018-04-26</ReleaseDate>
+  <Version>1.1.5</Version>
+  <ReleaseDate>2018-05-22</ReleaseDate>
   <Script>installscript.qs</Script>
   <Default>true</Default>
-  <UpdateFile UncompressedSize="10281482" CompressedSize="780889" OS="Any"/>
+  <UpdateFile CompressedSize="779965" OS="Any" UncompressedSize="10771212"/>
   <DownloadableArchives>baokhoa_report.7z</DownloadableArchives>
-  <SHA1>37e9dcf7c36fcd3276a12ec8b39ae7d8fccdee6c</SHA1>
+  <SHA1>4af5a308c99f0bb5c93aaa6f46d401f86618ffa5</SHA1>
  </PackageUpdate>
 </Updates>
